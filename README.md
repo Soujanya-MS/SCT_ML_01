@@ -1,28 +1,43 @@
-House Price Prediction – Task 01
+## 🏠 House Price Prediction | Task 01
 
-This project predicts house prices based on key house attributes using a machine learning model. It’s part of my SkillCraft ML Internship. The notebook explores the dataset, selects features and applies Linear Regression to estimate house prices.
+This project focuses on predicting house prices using key property features and a machine learning approach. It was completed as part of my **SkillCraft ML Internship** and walks through the full workflow, from data exploration to model evaluation.
 
-Tools
+The notebook uses **Linear Regression** to understand how different features influence house prices and to build a baseline predictive model.
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+---
 
-What’s included
+## 🔧 Tools & Technologies
 
-* Data loading and preprocessing
-* Selecting important features
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+---
+
+## 📌 What’s Included
+
+* Dataset loading and preprocessing
+* Feature selection and analysis
 * Building a Linear Regression model
-* Evaluating performance with MAE, RMSE and R² score
-* Insights for improving accuracy
+* Model evaluation using MAE, RMSE, and R² score
+* Observations and insights to improve predictions
 
-Next steps
+---
+
+## 🚀 Next Steps
 
 * Add more predictive features like lot area and garage size
-* Try advanced models like Random Forest and XGBoost
-* Apply feature scaling and regularization for performance boost
+* Experiment with advanced models such as Random Forest and XGBoost
+* Apply feature scaling and regularization to improve performance
 
-Files
+---
 
-`Task_01_HousePricePrediction.ipynb`
-`README.md`
+## 📂 Files
 
+* `Task_01_HousePricePrediction.ipynb`
+* `README.md`
 
+---
